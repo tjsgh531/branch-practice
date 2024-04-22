@@ -1,3 +1,4 @@
-for _ in range(3):
-    print("Hello")
+for _ in range(6):
+    if i % 2 == 0:
+        print("Hello")
 
